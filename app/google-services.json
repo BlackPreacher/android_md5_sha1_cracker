@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "424116854837",
+    "firebase_url": "https://md5-sha1-cracker.firebaseio.com",
+    "project_id": "md5-sha1-cracker",
+    "storage_bucket": "md5-sha1-cracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424116854837:android:e2c0f176d8157ab0",
+        "android_client_info": {
+          "package_name": "com.development.black_preacher.md5_sha1_cracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424116854837-rga6o3e4l6nebhledhtqcr67fv29bhqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdY8jdLfMElpXeZ-Y19-3Hd_NJWNXl2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
